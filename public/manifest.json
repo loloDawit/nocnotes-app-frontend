@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "NOC-S3",
+  "name": "A simple file uploader to AWS S3.",
   "icons": [
     {
       "src": "favicon.ico",
